@@ -1,0 +1,15 @@
+Jelaskan dengan detail mengenai resiko data quality pada case point 1, yaitu :
+○ Apa saja resiko data quality yang mungkin :
+   -> Ketika data tidak dijaga "trust"-nya resiko yang akan dihadapi oleh stackholder data yaitu dapat menghasilkan suatu analisa dan report yang tidak valid dan mengakibatkan under reporting untuk tim analyst dan business pada saat proses analisa.
+
+○ Apa yang dapat dilakukan, baik preventif maupun mitigasi masalah yang muncul
+setelahnya
+   -> Tindakan preventif yang dapat mencegah hal tersebut yaitu dengan menggunakan suatu data quality tools yaitu https://greatexpectations.io/ yang dapat me-monitor datawarehouse untuk menjaga quality,effectiveness,resilience dan integrity suatu data.
+
+○ Jika anda sebagai data governance, apa saja regulasi yang perlu dibuat bagi
+masing-masing data stakeholder untuk menjaga data quality tersebut?
+  -> Melakukan performance review dari Data Stewards terhadap data quality metrics.
+  -> bekerjasama dengan data owner untuk menentukan threshold dari data quality.
+  -> komunikasi dengan Business unit terkait untuk kebutuhan data governance enterprise terkait dengan kualitas data yang ingin dicapai.
+  -> mengidentifikasi area mana saja yang terdampak masalah data quality.
+  -> Mencabut akses data yang tidak sesuai antara role dan akses ke data tersebut.
